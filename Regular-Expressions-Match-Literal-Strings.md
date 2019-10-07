@@ -46,7 +46,7 @@ let result = waldoRegex.test(waldoIsHiding);
 
 
 
-Solution
+Solution:
 
 let waldoIsHiding = "Somewhere Waldo is hiding in this text.";
 

@@ -1,5 +1,5 @@
 
-Description:
+# Description:
 
 In the last challenge, you searched for the word "Hello"using the regular expression /Hello/. That regex searched for a literal match of the string "Hello". Here's another example searching for a literal match of the string "Kevin":
 
@@ -23,20 +23,20 @@ A future challenge will show how to match those other forms as well.
 
 
 
-Instruction:
+# Instruction:
 
 Complete the regex waldoRegexto find "Waldo"in the string waldoIsHidingwith a literal match.
 
 
 
-Tests:
+# Tests:
 - Your regex waldoRegexshould find "Waldo"
 - Your regex waldoRegexshould not search for anything else.
 - You should perform a literal string match with your regex.
 
 
 
-Challenge Seed:
+# Challenge Seed:
 
 let waldoIsHiding = "Somewhere Waldo is hiding in this text.";
 
@@ -46,7 +46,7 @@ let result = waldoRegex.test(waldoIsHiding);
 
 
 
-Solution:
+# Solution:
 
 let waldoIsHiding = "Somewhere Waldo is hiding in this text.";
 

@@ -23,7 +23,7 @@ A future challenge will show how to match those other forms as well.
 
 
 
-Challenge:
+Instruction:
 
 Complete the regex waldoRegexto find "Waldo"in the string waldoIsHidingwith a literal match.
 
@@ -36,7 +36,7 @@ Tests:
 
 
 
-Seeds:
+Challenge Seed:
 
 let waldoIsHiding = "Somewhere Waldo is hiding in this text.";
 
